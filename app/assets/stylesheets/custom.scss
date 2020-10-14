@@ -126,11 +126,25 @@ h1, h2 {
       margin-bottom: 20px;
       width: 100%;
     }
-
+    
     .topic-index-icon {
       width: 35px;
       height: 30px;
       margin-left: 20px;
+    }
+
+    .favorite-btn {
+      width: 35px;
+      height: 30px;
+      margin-left: 20px;
+    }
+    
+    .unfavorite-btn {
+      width: 35px;
+      height: 30px;
+      background-color: #e54747;
+      margin-left: 20px;
+      
     }
   }
 }
