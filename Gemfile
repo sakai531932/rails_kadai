@@ -43,10 +43,11 @@ group :development, :test do
   gem 'pry-doc'
   gem 'pry-byebug'
   gem 'pry-stack_explorer'
-  gem 'bcrypt'
-  gem "carrierwave"
+  
 end
 gem 'bootstrap-sass'
+gem 'bcrypt'
+gem "carrierwave"
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
